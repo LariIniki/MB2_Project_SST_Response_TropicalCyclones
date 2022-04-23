@@ -1,7 +1,8 @@
 # MB2_Project_SST_Response_TropicalCyclones
 
 Project work for MB2: Introduction to Programming and Geostatistics by Larissa Gorzawski
-\nEAGLE M.SC. Uni Würzburg
+
+EAGLE M.SC., Uni Würzburg
 
 This short university project takes a closer look at tropical cyclone track data from NOAA's International Best Track Archive for Climate Stewardship (IBTrACS)[1,2] during the Atlantic Hurricane Season 2020. It was the most active atlantic hurricane season on record, with 14 hurricanes [3].
 For these hurricanes, the well-known cooling of the ocean surface in a tropical cyclone's wake [4] will be investigated and visualized with daily MODIS Sea Surface Temperature (SST) data. The dataset can be accessed until June 2022 via the PODAAC drive (https://podaac-tools.jpl.nasa.gov/drive/login?dest=L2RyaXZlLw) and directly retrieved or copied from the script. For convenience, the data for this project can also be downloaded from here: https://drive.google.com/drive/folders/1hNh0-q-amZt-sN3UMoLNtblkW9OB-WrH?usp=sharing
